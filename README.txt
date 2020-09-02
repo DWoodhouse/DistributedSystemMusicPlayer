@@ -1,7 +1,7 @@
 Here is how to make it play a song:
 
 1. Find a music file to play. IMPORTANT must be .wav filetype (.wav files are much larger than mp3)
-Links to the examples used within the program are here:
+Links to the examples used within the program can be downloaded here:
 
 domslittlewebsite.com/bensound-summer.wav
 domslittlewebsite.com/UnknownBrain-Superhero.wav
