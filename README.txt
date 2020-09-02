@@ -8,7 +8,7 @@ domslittlewebsite.com/UnknownBrain-Superhero.wav
 domslittlewebsite.com/Disfigure-Blank.wav
 
 
-2. On the server (FileSelector.java) there is a two-dimensional array which is where the song name and filepath is stored
+2. On the server (FileSelector.java) there is a two-dimensional array which is where the song name and filepath is stored. Ensure the filepath is correct to where it is stored on your computer
 
 3. Run the server and client seperately at same time (I typically run them within IntelliJ)
 
