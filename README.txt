@@ -14,4 +14,4 @@ domslittlewebsite.com/Disfigure-Blank.wav
 
 4. Login on client side with username = admin and password = 123
 
-5. Follow instructions on command line to play song
+5. Follow command line prompts to play song
